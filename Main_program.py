@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
 
-DATA_URL ="/Users/Apurva/Desktop/streamlit-sentiment-dashboard/Tweets.csv"
+DATA_URL ="Tweets.csv"
 
 st.title("This is my first project on data analysis on Sentiment Analysis about Tweets of US Airlines")
 st.subheader('The dataset used in this project is from KAGGLE.')
